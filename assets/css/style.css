@@ -179,6 +179,11 @@ nav li:first-child {
   /* Visual */
   border-left: 0 none !important;
 }
+/*known lang carousel*/
+#languages{
+  height: 400px;
+  width: 350px;
+}
 
 /* footer */
 
